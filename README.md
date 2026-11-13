@@ -1,6 +1,7 @@
 # Nisarg Kansagra
 
 [](https://github.com/Open-Dev-Society/openreadme)
+![OpenReadme](https://raw.githubusercontent.com/ravixalgorithm/openreadme-images/main/profiles/17148ffb9a4e.png)
 
 | ✦ Profile overview | ✦ Current focus |
 | :--- | :--- |
